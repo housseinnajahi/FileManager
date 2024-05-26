@@ -1,0 +1,6 @@
+altair
+pandas
+streamlit
+pydantic
+st-ant-tree
+streamlit-echarts
